@@ -4,7 +4,7 @@ One of the most crucial and challenging jobs in the world of medical imaging is 
 
 # The code can be uploaded to google drive and opened in google colab.
 
-# The link of the dataset used - [https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri]
+# The link of the dataset used - [Dataset](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
 
 # To run the code upload the dataset and the code to the google drive, open the code in google colab and set paths accordingly in the code.
 
